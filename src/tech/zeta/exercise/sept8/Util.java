@@ -16,4 +16,11 @@ public class Util{
         System.out.println();
     }
 
+    public static void ParaBreak(){
+        System.out.println();
+        System.out.println("---------------------------");
+        System.out.println("---------------------------");
+        System.out.println();
+    }
+
 }

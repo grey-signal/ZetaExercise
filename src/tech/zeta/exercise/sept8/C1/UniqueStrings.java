@@ -37,11 +37,5 @@ public class UniqueStrings {
         Set<String> uniqueStrings = new HashSet<>(duplicateStrings);
         System.out.println("Unique strings are: ");
         Util.display(uniqueStrings);
-
-
-
-
     }
-
-
 }

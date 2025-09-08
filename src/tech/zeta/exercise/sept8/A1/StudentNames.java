@@ -10,13 +10,6 @@ import java.util.Scanner;
 
 public class StudentNames {
 
-    public static void displayAll(ArrayList<String> studentNames){
-        System.out.println("The students are: ");
-        for(String studentName : studentNames){
-            System.out.print(studentName + " ");
-        }
-    }
-
     public static void main(String[] args) {
 
         String name;
@@ -34,8 +27,6 @@ public class StudentNames {
         }
 
         Util.display(studentNames);
-//        displayAll(studentNames);
-
         input.close();
     }
 

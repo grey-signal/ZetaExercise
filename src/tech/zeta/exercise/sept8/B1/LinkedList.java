@@ -4,7 +4,7 @@ package tech.zeta.exercise.sept8.B1;
 //     add a song to the beginning of the playlist, and remove a song from the playlist.
 
 
-import tech.zeta.exercise.sept8.Util;
+import tech.zeta.exercise.sept8.util.Util;
 
 import java.util.Scanner;
 

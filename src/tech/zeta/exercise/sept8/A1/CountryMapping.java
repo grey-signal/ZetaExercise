@@ -1,6 +1,6 @@
 package tech.zeta.exercise.sept8.A1;
 
-import tech.zeta.exercise.sept8.Util;
+import tech.zeta.exercise.sept8.util.Util;
 
 import java.util.HashMap;
 import java.util.Scanner;

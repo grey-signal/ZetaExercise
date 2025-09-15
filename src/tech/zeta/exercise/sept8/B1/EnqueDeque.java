@@ -5,7 +5,7 @@ package tech.zeta.exercise.sept8.B1;
 //       dequeue (remove an element from the beginning),
 //       and peek (view the first element without removing it).
 
-import tech.zeta.exercise.sept8.Util;
+import tech.zeta.exercise.sept8.util.Util;
 
 import java.util.LinkedList;
 import java.util.Scanner;

@@ -3,7 +3,7 @@ package tech.zeta.exercise.sept8.A1;
 //       1. Create a program that stores a list of student names using an ArrayList.
 //       Add at least 5 student names to the list. Then, print the list of student names.
 
-import tech.zeta.exercise.sept8.Util;
+import tech.zeta.exercise.sept8.util.Util;
 
 import java.util.ArrayList;
 import java.util.Scanner;

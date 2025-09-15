@@ -4,10 +4,9 @@ package tech.zeta.exercise.sept8.C1;
       4. Performance Test: Create two large sets (one HashSet and one TreeSet) with 1 million random integers.
       Measure the time it takes to add, remove, and check for the existence of elements in both sets.
       Analyze the performance differences.
-
  */
 
-import tech.zeta.exercise.sept8.Util;
+import tech.zeta.exercise.sept8.util.Util;
 
 import java.util.*;
 
@@ -89,8 +88,5 @@ public class PerformanceAnalysis {
         }
         endTime = System.nanoTime();
         System.out.println("Total time took for deletion in TreeSet: "+ (endTime - startTime)/ENTRIES + "ms");
-
     }
-
-
 }

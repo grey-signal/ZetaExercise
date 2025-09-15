@@ -1,10 +1,9 @@
 package tech.zeta.exercise.sept8.C1;
 
-import tech.zeta.exercise.sept8.Util;
+import tech.zeta.exercise.sept8.util.Util;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
 import java.util.TreeSet;
 
 public class SortedNames {

@@ -1,4 +1,4 @@
-package tech.zeta.exercise.sept8;
+package tech.zeta.exercise.sept8.util;
 
 public class Util{
 

@@ -5,7 +5,7 @@ package tech.zeta.exercise.sept8.C1;
       use a HashSet to remove all duplicate strings and print the unique strings.
 */
 
-import tech.zeta.exercise.sept8.Util;
+import tech.zeta.exercise.sept8.util.Util;
 
 import java.util.ArrayList;
 import java.util.HashSet;
